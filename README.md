@@ -1,5 +1,7 @@
 ### Hi there 👋
+This is my GitHub profile, and I guess you can look at my repos.
 
+(Also you are a beautiful person.)
 <!--
 **supercat3point0/supercat3point0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
